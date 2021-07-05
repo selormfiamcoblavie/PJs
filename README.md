@@ -1,2 +1,1 @@
-# PJs
-Mini Projects
+# Mini Projects
